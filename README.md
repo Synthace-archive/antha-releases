@@ -10,7 +10,7 @@ Home of binary distribution of antha tools.
 
 ### Installation
 
-1. Download the latest version of clientdevice from the releases tab.
+1. Download the latest version of clientdevice from the [releases tab](https://github.com/Synthace/antha-releases/releases).
 
 2. Unpack the file on a computer attached to your lab devices.
 
