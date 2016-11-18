@@ -33,6 +33,7 @@ Home of binary distribution of antha tools.
 
 1. Run the following command in a terminal in the directory you unpacked
    clientdevice:
+   
    ```sh
    clientdevice connect
    ```
