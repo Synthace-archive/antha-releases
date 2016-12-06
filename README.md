@@ -63,7 +63,7 @@ drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)).
 
 ## Changelog
 
-  - v0.5
-    * Initial release
   - v0.5.1
     * Update QInstruments BioShake driver to include diagnostic program
+  - v0.5
+    * Initial release
