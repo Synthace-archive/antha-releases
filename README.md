@@ -21,9 +21,11 @@ Home of binary distribution of antha tools.
 3. Run the following command in a terminal in the directory you unpacked
    clientdevice in and for each device attached to the computer:
    ```sh
-   clientdevice add --device pipetmax
-   clientdevice add --device bioshake
+   clientdevice --endpoint https://my-co.antha.com add --device pipetmax
+   clientdevice --endpoint https://my-co.antha.com add --device bioshake
    ```
+   Make sure to replace `https://my-co.antha.com` with the appropriate URL.
+
    To see a list of device types available run:
    ```sh
    clientdevice add --help
@@ -35,17 +37,8 @@ Home of binary distribution of antha tools.
    clientdevice:
 
    ```sh
-   clientdevice connect
+   clientdevice --endpoint https://my-co.antha.com connect
    ```
-
-### Non-standard installations
-
-clientdevice pairs with https://antha.synthace.com by default. If you want to
-connect to another AnthaOS deployment add the following options to both the
-`add` and `connect` commands above: 
-```sh
---endpoint https://my.different.endpoint --insecureSkipVerify
-```
 
 ## Supplemental Software
 
