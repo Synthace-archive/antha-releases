@@ -33,7 +33,7 @@ Home of binary distribution of antha tools.
 
 1. Run the following command in a terminal in the directory you unpacked
    clientdevice:
-   
+
    ```sh
    clientdevice connect
    ```
@@ -63,6 +63,8 @@ drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)).
 
 ## Changelog
 
+  - v0.5.2
+    * Changed default endpoint
   - v0.5.1
     * Update QInstruments BioShake driver to include diagnostic program
   - v0.5
