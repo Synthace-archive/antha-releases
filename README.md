@@ -56,6 +56,8 @@ drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)).
 
 ## Changelog
 
+  - v0.5.3
+    * Name is required when adding a new device (clientdevice add --name ...)
   - v0.5.2
     * Changed default endpoint
   - v0.5.1
