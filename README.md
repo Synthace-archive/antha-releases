@@ -55,7 +55,8 @@ drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41), [OSX
 drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)).
 
 ## Changelog
-
+  - v0.5.4
+    * Tolerate new fields in server api
   - v0.5.3
     * Name is required when adding a new device (clientdevice add --name ...)
   - v0.5.2
