@@ -40,6 +40,19 @@ Home of binary distribution of antha tools.
    clientdevice --endpoint https://my-co.antha.com connect
    ```
 
+### Migrating to a New Machine
+
+If you need to move your clientdevice configuration to a new machine:
+
+  1. Copy the `clientdevice.yml` file from the home directory of your old
+     machine to your home directory in your new machine.
+  2. Download a copy of clientdevice from this website on your new machine.
+  3. Run the `connect` command above and verify that your device appears
+     as connected in the device hub at https://my-co.antha.com
+  4. If your device does not appear after a few minutes, please verify that
+     you copied `clientdevice.yml` to the correct location on your new
+     machine.
+
 ## Supplemental Software
 
 ### Gilson PIPETMAX
