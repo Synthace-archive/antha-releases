@@ -68,6 +68,9 @@ drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=225&pcid=41), [OSX
 drivers](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)).
 
 ## Changelog
+  - v0.5.5
+    * Fix display of devices in status page
+    * Support versioned Trilution MICRO directories
   - v0.5.4
     * Tolerate new fields in server api
   - v0.5.3
